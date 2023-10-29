@@ -1,5 +1,11 @@
-<h1 align="center">Bonjour 👋 je suis Alban Kerloc'h</h1>
+<h1 align="center">Bonjour 👋, je suis Alban Kerloc'h</h1>
 <h3 align="center">Un consultant senior spécialisé dans les projets Data dans le secteur de l'énergie</h3>
+
+- 🌱 J'apprends actuellement le **Machine Learning**
+
+- 👨‍💻 Mes projets sont disponibles ici : [https://alban-kerloch.netlify.app/](https://alban-kerloch.netlify.app/)
+
+- 📫 Vous pouvez me joindre via : **alban.kerloch@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
