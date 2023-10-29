@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, je suis Alban Kerloc'h</h1>
+<h1 align="center">Bonjour 👋 je suis Alban Kerloc'h</h1>
 <h3 align="center">Un consultant senior spécialisé dans les projets Data dans le secteur de l'énergie</h3>
 
 <h3 align="left">Connect with me:</h3>
