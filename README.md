@@ -3,7 +3,7 @@
 
 - 🌱 J'apprends actuellement le **Machine Learning**
 
-- 👨‍💻 Mes projets sont disponibles ici : [https://alban-kerloch.netlify.app/](https://albankerloch.netlify.app/)
+- 👨‍💻 Mes projets sont disponibles ici : [https://albankerloch.netlify.app/](https://albankerloch.netlify.app/)
 
 - 📫 Vous pouvez me joindre via : **alban.kerloch@gmail.com** ou <a href="https://linkedin.com/in/albankerloch" target="blank">**Linkedin**</a>
 
